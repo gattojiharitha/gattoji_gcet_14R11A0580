@@ -39,7 +39,7 @@ public class Student implements Comparable {
 	}
 
 	public int getId() {
-		return id
+		return id;
 	}
 
 	public void setId(int id) {
